@@ -1,2 +1,2 @@
-# form
-create a form using html and css #fusion flow internship 1st task
+# Form
+Create a form using HTML and CSS #fusion flow internship 1st task
